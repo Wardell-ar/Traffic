@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JK86vCyywWUnr8bFO0ubTrIgV1BhTwx//X8ftzABb+A=",
+  "Source": "TrafficDataApi",
+  "BasePath": "_content/TrafficDataApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

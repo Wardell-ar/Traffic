@@ -1,0 +1,16 @@
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\TrafficDataApi.exe
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\appsettings.Development.json
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\appsettings.json
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\TrafficDataApi.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\TrafficDataApi.deps.json
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\TrafficDataApi.runtimeconfig.json
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\TrafficDataApi.pdb
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.JsonPatch.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Microsoft.OpenApi.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Newtonsoft.Json.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Newtonsoft.Json.Bson.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SoftwareEngineer\TrafficDataApi\TrafficDataApi\bin\Release\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
